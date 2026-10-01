@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705966523633",
+    "project_id": "my-map-project-506510",
+    "storage_bucket": "my-map-project-506510.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705966523633:android:381eeb384f1ae24495d550",
+        "android_client_info": {
+          "package_name": "uz.fayzullo.mymap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMY2_CfL3WTvGB6qQ3uXH3BEqnCiq0cfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
